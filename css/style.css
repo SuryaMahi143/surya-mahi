@@ -74,9 +74,9 @@ License: copyright commercial
   --headings-color: #0f0f0f;
   --link-color: var(--headings-color);
   --link-hover-color: var(--headings-color);
-  --text-font: 'Cinzel', sans-serif;
-  --title-font: 'Cinzel', sans-serif;
-  --script-font: 'Cinzel', sans-serif;
+  --text-font: "Manrope", sans-serif;
+  --title-font: "Cinzel", sans-serif;
+  --script-font: "Great Vibes", sans-serif;
   --body-font-size: 16px;
   --body-line-height: 28px;
   --body-font-weight: 400;
