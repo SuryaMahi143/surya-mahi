@@ -74,8 +74,8 @@ License: copyright commercial
   --headings-color: #0f0f0f;
   --link-color: var(--headings-color);
   --link-hover-color: var(--headings-color);
-  --text-font: "Manrope", sans-serif;
-  --title-font: "Cinzel", serif;
+  --text-font: "Roboto", sans-serif;
+  --title-font: "Roboto", serif;
   --script-font: "Great Vibes", serif;
   --body-font-size: 16px;
   --body-line-height: 28px;
