@@ -31,7 +31,7 @@ License: copyright commercial
 25. Story Section / Two / Three
 26. Main Footer / Two / Three / Four / Five
 **********************************************/
-@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800&family=Manrope:wght@300;400;500;600;700&family=Great+Vibes&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800&amp;family=Manrope:wght@300;400;500;600;700&amp;family=Great+Vibes&amp;display=swap");
 @import url("animate.css");
 @import url("owl.css");
 @import url("jquery.fancybox.min.css");
@@ -41,6 +41,7 @@ License: copyright commercial
 @import url("swiper.min.css");
 @import url("tm-bs-mp.css");
 @import url("tm-utility-classes.css");
+
 :root {
   --theme-color-light: #ffffff;
   --theme-color-dark: #000000;
@@ -75,7 +76,7 @@ License: copyright commercial
   --link-hover-color: var(--headings-color);
   --text-font: "Manrope", sans-serif;
   --title-font: "Cinzel", serif;
-  --script-font: "Great Vibes", cursive;
+  --script-font: "Great Vibes", serif;
   --body-font-size: 16px;
   --body-line-height: 28px;
   --body-font-weight: 400;
