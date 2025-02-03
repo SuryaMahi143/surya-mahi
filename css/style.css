@@ -41,7 +41,6 @@ License: copyright commercial
 @import url("swiper.min.css");
 @import url("tm-bs-mp.css");
 @import url("tm-utility-classes.css");
-
 :root {
   --theme-color-light: #ffffff;
   --theme-color-dark: #000000;
