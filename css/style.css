@@ -31,7 +31,7 @@ License: copyright commercial
 25. Story Section / Two / Three
 26. Main Footer / Two / Three / Four / Five
 **********************************************/
-
+@import url('https://fonts.googleapis.com/css2?family=Italiana&amp;family=Montserrat:wght@300;400;500;600;700&amp;family=Roboto:wght@300;400;500;700&amp;display=swap');
 @import url("animate.css");
 @import url("owl.css");
 @import url("jquery.fancybox.min.css");
